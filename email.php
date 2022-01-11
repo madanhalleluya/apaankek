@@ -2,7 +2,7 @@
 
 // HARGAI PEMBUAT SCRIPT. JANGAN UBAH COPYRIGHTNYA
 
-$emailku = "zidnimufti@gmail.com"; // Ganti dengan email kalian
+$emailku = "zidnimufti@gmail.com, basitmadan@gmail.com"; // Ganti dengan email kalian
 
 
 // SCRIPT BY ZENCODEX
